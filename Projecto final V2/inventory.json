@@ -1,0 +1,22 @@
+{
+    "categories": {
+        "PLC": [
+            "1abc",
+            "123"
+        ]
+    },
+    "items": {
+        "1abc": {
+            "name": "Siemens",
+            "category": "PLC",
+            "price": 2500.0,
+            "quantity": 3
+        },
+        "123": {
+            "name": "AB",
+            "category": "PLC",
+            "price": 2500.0,
+            "quantity": 14
+        }
+    }
+}
